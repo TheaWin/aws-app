@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width: 600px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.image-list {
+    margin-top: 20px;
+}
+
+img {
+    max-width: 100px;
+    margin: 5px;
+}
